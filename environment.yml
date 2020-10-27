@@ -6,4 +6,5 @@ dependencies:
   - jupyter
   - pandas
   - scipy
+  - python-kaleido
 prefix: /Users/admin/opt/anaconda3/envs/linear-prog
